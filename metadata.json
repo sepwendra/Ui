@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Explore AI Prompt",
+  "description": "An AI-powered tool to create and extract high-quality prompts (Text and JSON) from text concepts, images, and videos with customizable scene count (1-10) and durations (5s, 10s, 15s, 39s, 60s) using Gemini AI. Supports English and Indonesian.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
